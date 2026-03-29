@@ -51,11 +51,10 @@ I'm an **AI/ML Engineer and Research Intern** passionate about building **intell
 ## 💼 Experience
 
 **AI Engineering Intern — Atomicwork**
-_Jan 2026 – Present | Tech Stack: Python, LLMs, Prompt Engineering, TTS Systems, Java_
-* Shipped **9 production PRs** across 3 core repositories (atomic-nlu-service, aiagent, esd) in under 3 months.
-* Built an end-to-end **dynamic voice customization system** — enabling users to select, preview, and switch TTS voices instantly without redeployment.
+_Jan 2026 – Present | Tech Stack: Python, LLMs, Prompt Engineering, TTS Systems.
+* Shipped ** production PRs** across core repositories.
+* Built an end-to-end **dynamic voice customization system** — enabling users to select, preview, and switch TTS voices instantly.
 * Improved **LLM reliability** through prompt engineering, anti-hallucination tuning, and structured timeout/error handling in production AI pipelines.
-* Fixed **image handling and context injection bugs** in multi-turn conversations, resolving recency bias issues in live AI responses.
 * Owned the full dev cycle independently: coded → deployed to lower environments → verified logs in Maxim → wrote unit tests → merged to production.
 
 **AI/ML Engineer Intern — Avijo**
