@@ -126,13 +126,6 @@ _Tech Stack: Python, TensorFlow, Flask, Scikit-learn_
 
 ---
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravinya&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
 
 ## 🧠 Certifications
 
