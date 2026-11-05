@@ -17,7 +17,7 @@
 
 I'm an **AI/ML Engineer and Research Intern** passionate about building **intelligent, explainable, and impactful AI systems**. My work spans **Reinforcement Learning, Large Language Models (LLMs), Agentic RAG Systems**, **Voice AI**, and **AI for Healthcare**.
 
-* 🎓 Final-year *B.Tech CSE (AIML)* student at *Woxsen University*
+* 🎓 Completed *B.Tech CSE (AIML)* from *Woxsen university*
 * 💼 *Associate Agentic AI Engineer @ Grabon* — Designing products and multi-agent systems; built 2 internal applications
 * 💼 *AI Engineering Intern @ Atomicwork* — Shipping production AI across LLMs, Voice Systems & NLP pipelines (9 PRs merged)
 * 💼 *AI/ML Engineer Intern @ Avijo* — Building scalable AI systems for digital healthcare
