@@ -18,6 +18,7 @@
 I'm an **AI/ML Engineer and Research Intern** passionate about building **intelligent, explainable, and impactful AI systems**. My work spans **Reinforcement Learning, Large Language Models (LLMs), Agentic RAG Systems**, **Voice AI**, and **AI for Healthcare**.
 
 * 🎓 Final-year *B.Tech CSE (AIML)* student at *Woxsen University*
+* 💼 *Associate Agentic AI Engineer @ Grabon* — Designing products and multi-agent systems; built 2 internal applications
 * 💼 *AI Engineering Intern @ Atomicwork* — Shipping production AI across LLMs, Voice Systems & NLP pipelines (9 PRs merged)
 * 💼 *AI/ML Engineer Intern @ Avijo* — Building scalable AI systems for digital healthcare
 * 🔬 *Research Intern @ NIT Warangal* — Applied *DDPG RL* for network optimization
@@ -50,8 +51,15 @@ I'm an **AI/ML Engineer and Research Intern** passionate about building **intell
 
 ## 💼 Experience
 
+**Associate Agentic AI Engineer — Grabon**
+_Jun 2026 – Present_
+* Working on **product design** across various products, shaping how agentic AI capabilities are built into them.
+* Contributing to **multi-agent system design**, including the architecture and orchestration of agents.
+* Built **2 applications for the internal team**, taking them from design through to delivery.
+* Worked with the internal team to understand requirements and deliver the applications.
+
 **AI Engineering Intern — Atomicwork**
-_Jan 2026 – Present | Tech Stack: Python, LLMs, Prompt Engineering, TTS Systems.
+_Jan 2026 – Jun 2026 | Tech Stack: Python, LLMs, Prompt Engineering, TTS Systems._
 * Shipped ** production PRs** across core repositories.
 * Built an end-to-end **dynamic voice customization system** — enabling users to select, preview, and switch TTS voices instantly.
 * Improved **LLM reliability** through prompt engineering, anti-hallucination tuning, and structured timeout/error handling in production AI pipelines.
